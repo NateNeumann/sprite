@@ -1,6 +1,14 @@
 # sprite
 
-A tiny open source spacecraft
+Demo in programming for a tiny open source spacecraft! 
+
+# Introduction
+
+The Sprite board is a computer made on one circuit board, intended to be a used as a miniature spacecraft.
+
+Because of the weight limitations imposed by being intended for space use, it is designed to be quite light and simple, but it comes built-in with many of the same sensors and processing tools as are in your smartphones and computers.
+
+To get started with the introductory demo, please visit the [Demo Instructions page](https://github.com/NateNeumann/sprite/wiki/Demo-Instructions) in the Wiki.
 
 # Acknowledgments
 
